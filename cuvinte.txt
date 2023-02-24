@@ -1,0 +1,16 @@
+red
+blue
+yellow
+water
+word
+university
+school
+hello
+goodbye
+college
+cherry
+banana
+algorithm
+tree
+classroom
+calendar
